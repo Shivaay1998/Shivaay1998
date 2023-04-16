@@ -1,3 +1,4 @@
+![](https://github.com/Shivaay1998/Shivaay1998/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shivam Dhiman</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img src="https://d33wubrfki0l68.cloudfront.net/02441102f929f7a94316d3a01aeb5e59e2d415aa/e34c6/images/loading.gif" alt="coding" align="right" width="400">
